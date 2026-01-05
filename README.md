@@ -12,11 +12,17 @@ Senior Game Developer with 3+ years of experience building and publishing
 - Level Design & Optimization
 
 ## Featured Games
-- Game Name 1 – Android | iOS  
-  Play Store: link here
+- 96 Nights Survival in Jungle – Android 
+  Play Store: https://play.google.com/store/apps/details?id=com.extreme.games.production.survive96nightsinbadforest.games
 
-- Game Name 2 – Android  
-  Play Store: link here
+-Dig and Hatch a Memerot – Android  
+  Play Store: https://play.google.com/store/apps/details?id=com.com.extreme.games.production.dighatch.memerot.game
+  
+-Sticks Storm: Crazy Duels – Android  
+  Play Store: https://play.google.com/store/search?q=crazy%20sticks&c=apps
+  
+-Quarantine Last Survival – Android  
+  Play Store: https://play.google.com/store/apps/details?id=com.stv.quarantine.last.survival.games
 
 ## Experience
 - **Senior Game Developer** – Survival Tech Valley  
@@ -24,5 +30,5 @@ Senior Game Developer with 3+ years of experience building and publishing
 - **Game Developer** – Mizo Studio  
 
 ## Contact
-- Email: your email
-- LinkedIn: link
+- Email: daniyalasad1110@gmail.com
+- LinkedIn: https://www.linkedin.com/in/daniyal-asad-9a1b40242/
